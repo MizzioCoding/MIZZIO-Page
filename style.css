@@ -28,13 +28,12 @@ footer {
 
 .Inicio-container {
     width: 100%;
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
+
 }
 
-.Inicio-container img {
-    transform: scale(0.3);
+.imagen-container img {
+    display: block;
+margin: 5px auto;
 }
 
 .Inicio-container h1 {
